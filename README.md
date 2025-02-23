@@ -52,7 +52,7 @@ If needed, you can configure the Selenium WebDriver for different browsers or se
 ---
 ## 🧪 Running Tests
 The tests are executed using Maven. To run the tests for login, payment checkout, and review submission functionalities, follow these steps:
-```declarative
+```
 mvn test
 ```
 
